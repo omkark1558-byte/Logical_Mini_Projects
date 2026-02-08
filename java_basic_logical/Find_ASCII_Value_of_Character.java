@@ -9,5 +9,5 @@ public class Find_ASCII_Value_of_Character {
 		 System.out.println(ascii);
 
 	}
-
 }
+
